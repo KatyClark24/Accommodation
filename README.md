@@ -1,0 +1,2 @@
+# Accommodation
+List of Sites
